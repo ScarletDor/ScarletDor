@@ -1,7 +1,7 @@
 
 <h1 align="center">ScarletDor</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&size=22&duration=3000&pause=1000&color=8298D8&center=true&vCenter=true&width=500&lines=你好，欢迎来到我的主页！;一个喜欢折腾代码的人;保持好奇，不断创造 ✨" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Noto+Sans+SC&size=22&duration=3000&pause=1000&color=8298D8&center=true&vCenter=true&width=500&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E4%B8%BB%E9%A1%B5%EF%BC%81;%E4%B8%80%E4%B8%AA%E5%96%9C%E6%AC%A2%E6%8A%98%E8%85%BE%E4%BB%A3%E7%A0%81%E7%9A%84%E4%BA%BA;%E4%BF%9D%E6%8C%81%E5%A5%BD%E5%A5%87%EF%BC%8C%E4%B8%8D%E6%96%AD%E5%88%9B%E9%80%A0%20%E2%9C%A8" />
 </p>
 <p align="center">一个喜欢折腾、热爱创造的业余开发者</p>
 <p align="center">
